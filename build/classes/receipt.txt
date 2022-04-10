@@ -1,0 +1,156 @@
+
+################################################
+		iShop
+	BANGLADESH ARMY UNIVERSITY
+
+################################################
+Date:   10-01- 2019
+Time: 11:52:34 AM
+
+Name: Faddy
+Phone: 017XXXXXXXX
+Address: Bogura
+______________________________________________
+
+Name	Quantity	Price
+KITKAT	3	180
+
+________________________________________________
+Total Price: 180
+Total Price(15% VAT Include): 207.0
+Amount Recieved: 300
+Amount Backed: 93
+
+_________Sold By Jahid Hasan ___________________
+************************************************
+
+
+################################################
+		iShop
+	BANGLADESH ARMY UNIVERSITY
+
+################################################
+Date:   10-01- 2019
+Time: 11:53:16 AM
+
+Name: Teem
+Phone: 015XXXXXXXX
+Address: Dhaka
+______________________________________________
+
+Name	Quantity	Price
+DARK FANTASY CHOCO	1	110
+
+________________________________________________
+Total Price: 110
+Total Price(15% VAT Include): 126.5
+Amount Recieved: 150
+Amount Backed: 23
+
+_________Sold By Jahid Hasan ___________________
+************************************************
+
+
+################################################
+		iShop
+	BANGLADESH ARMY UNIVERSITY
+
+################################################
+Date: 10-01-2019
+Time: 01:53:58 PM
+
+Name: kjguyfgy
+Phone: 6529828
+Address: jbhgvyvyt
+______________________________________________
+
+Name	Quantity	Price
+KITKAT	5	300
+
+________________________________________________
+Total Price: 300
+Total Price(15% VAT Include): 345.0
+Amount Recieved: 500
+Amount Backed: 155
+
+_________Sold By teemo ___________________
+************************************************
+
+
+################################################
+		iShop
+	BANGLADESH ARMY UNIVERSITY
+
+################################################
+Date: 18-02-2019
+Time: 06:09:54 PM
+
+Name: sakib
+Phone: 01654798749
+Address: natore
+______________________________________________
+
+Name	Quantity	Price
+MUNCHEE GINGER	5	100
+
+________________________________________________
+Total Price: 100
+Total Price(15% VAT Include): 115.0
+Amount Recieved: 500
+Amount Backed: 385
+
+_________Sold By teemo ___________________
+************************************************
+
+
+################################################
+		iShop
+	BANGLADESH ARMY UNIVERSITY
+
+################################################
+Date: 03-03-2019
+Time: 07:07:44 PM
+
+Name: jony jony
+Phone: 6546845254768
+Address: hwoiefhwiuefh
+______________________________________________
+
+Name	Quantity	Price
+LAYS	3	150
+
+________________________________________________
+Total Price: 750
+Total Price(15% VAT Include): 862.5
+Amount Recieved: 1000
+Amount Backed: 137
+
+_________Sold By teemo ___________________
+************************************************
+
+
+################################################
+		iShop
+	BANGLADESH ARMY UNIVERSITY
+
+################################################
+Date: 06-04-2019
+Time: 03:56:32 PM
+
+Name: kashdiud
+Phone: 214698798
+Address: MJSHDiuwhd
+______________________________________________
+
+Name	Quantity	Price
+PERK	5	115
+
+________________________________________________
+Total Price: 115
+Total Price(15% VAT Include): 132.25
+Amount Recieved: 500
+Amount Backed: 367
+
+_________Sold By teemo ___________________
+************************************************
+
